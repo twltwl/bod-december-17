@@ -1,3 +1,17 @@
 #slide1 {
   text-align:left;
 }
+
+#slide2 {
+  text-align:left;
+  top:0px !important;
+}
+
+#slide2 h2, #slide2 h3 {
+  background:#000;
+  padding:5px;
+  clear : both;
+  float : left;
+  opacity: 0.7;
+  padding:5px 10px;
+}
