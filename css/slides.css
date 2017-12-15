@@ -1,3 +1,11 @@
+h2 {
+  font-size:1.2em !important;
+}
+
+h3 {
+  font-size:1em !important;
+}
+
 #slide1 {
 }
 
@@ -10,14 +18,12 @@
   color:#000;
   clear : both;
   float : left;
-  font-size:1.4em;
 }
 
 #slide2 h3 {
   color:#000;
   clear : both;
   float : left;
-  font-size:1em;
   text-shadow: 0px 0px 10px #fff;
 }
 
@@ -56,14 +62,3 @@
   top:0px !important;
 }
 
-#slide2 h2{
-  clear : both;
-  float : left;
-  font-size:1.4em;
-}
-
-#slide2 h3 {
-  clear : both;
-  float : left;
-  font-size:1em;
-}
