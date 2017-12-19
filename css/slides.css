@@ -7,6 +7,15 @@ h3 {
 }
 
 #slide1 {
+  top:40px !important;
+}
+
+#slide1 h2{
+  font-size:1.5em !important;
+}
+
+#slide1 h3{
+  font-size:1.2em !important;
 }
 
 #slide2 {
