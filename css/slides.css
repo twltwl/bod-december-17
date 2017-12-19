@@ -1,3 +1,7 @@
+body {
+  background: #000;
+}
+
 h2 {
   font-size:1em !important;
 }
@@ -10,14 +14,17 @@ h3 {
 }
 
 #slide2 {
-  top:0 !important;
+  top:50% !important;
+  right: 20px;
+  transform: translateY(-50%);
 }
 
 #slide2 > div {
-  background:rgba(255,255,255, 0.75);
-  padding:10px;
+  background:rgba(255,255,255, 1);
+  padding:20px;
   display:inline-block;
   text-align:left;
+  float: right;
 }
 
 #slide2 h2{
@@ -26,6 +33,7 @@ h3 {
 
 #slide2 h3 {
   color:#000;
+  text-transform: capitalize !important;
 }
 
 #slide3{
